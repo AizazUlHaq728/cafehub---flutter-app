@@ -1,16 +1,8 @@
-# buns_out
+# CafeHub
 
-A new Flutter project.
+Developed a food ordering application using Flutter and Dart, designed to streamline order management for employees at 
+the registry by storing orders and performing all necessary computations and cart type functions within the local storage
 
-## Getting Started
+## Video Tutorial
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/AizazUlHaq728/cafehub---flutter-app/assets/136633353/c2a90ccd-74ed-4076-adaf-e467af7b904b
